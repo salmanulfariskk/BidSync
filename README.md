@@ -1,4 +1,4 @@
-# ProBid - Project Bidding & Management System
+# BidSync - Project Bidding & Management System
 
 ProBid is a comprehensive platform that connects buyers and sellers through a project bidding system. Buyers can post projects, sellers can place bids, and both parties can collaborate through project completion.
 
